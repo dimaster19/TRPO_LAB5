@@ -1,0 +1,30 @@
+\hypertarget{_expression_evaluator_8h_source}{}\doxysection{Expression\+Evaluator.\+h}
+\label{_expression_evaluator_8h_source}\index{C:/Users/admin/source/repos/LAB5+Cpp/ExpressionEvaluator.h@{C:/Users/admin/source/repos/LAB5+Cpp/ExpressionEvaluator.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#include "{}ILoggable.h"{}}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{4 \textcolor{keyword}{class }\mbox{\hyperlink{class_expression_evaluator}{ExpressionEvaluator}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_i_loggable}{ILoggable}}}
+\DoxyCodeLine{5 \{}
+\DoxyCodeLine{6 \textcolor{keyword}{protected}:}
+\DoxyCodeLine{7     \textcolor{keywordtype}{int} numOfOperands = 0;}
+\DoxyCodeLine{8     \textcolor{keywordtype}{double}* operands;}
+\DoxyCodeLine{9     std::string operators = \textcolor{stringliteral}{"{}0"{}};}
+\DoxyCodeLine{10 }
+\DoxyCodeLine{11 \textcolor{keyword}{private}:}
+\DoxyCodeLine{12     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} initializeZeros();}
+\DoxyCodeLine{13 \textcolor{keyword}{public}:}
+\DoxyCodeLine{14     }
+\DoxyCodeLine{15     \textcolor{keyword}{virtual} \mbox{\hyperlink{class_expression_evaluator}{\string~ExpressionEvaluator}}();}
+\DoxyCodeLine{16     \mbox{\hyperlink{class_expression_evaluator}{ExpressionEvaluator}}(\textcolor{keywordtype}{int} numOfOperands);}
+\DoxyCodeLine{17     \mbox{\hyperlink{class_expression_evaluator}{ExpressionEvaluator}}();}
+\DoxyCodeLine{18     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setOperand(\textcolor{keywordtype}{size\_t} pos, \textcolor{keywordtype}{double} value);}
+\DoxyCodeLine{19     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setOperands(\textcolor{keywordtype}{double} ops[], \textcolor{keywordtype}{size\_t} n);}
+\DoxyCodeLine{20     \textcolor{keyword}{virtual} \textcolor{keywordtype}{double} calculate() = 0;}
+\DoxyCodeLine{21 }
+\DoxyCodeLine{22     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} logToScreen() \textcolor{keyword}{const override};}
+\DoxyCodeLine{23     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} logToFile(\textcolor{keyword}{const} std::string\& filename) \textcolor{keyword}{const override};}
+\DoxyCodeLine{24 \};}
+
+\end{DoxyCode}

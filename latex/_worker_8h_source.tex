@@ -1,0 +1,39 @@
+\hypertarget{_worker_8h_source}{}\doxysection{Worker.\+h}
+\label{_worker_8h_source}\index{C:/Users/admin/source/repos/LAB5+Cpp/Worker.h@{C:/Users/admin/source/repos/LAB5+Cpp/Worker.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#include <string>}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#include <fstream>}}
+\DoxyCodeLine{4 \textcolor{keyword}{class }\mbox{\hyperlink{class_worker}{Worker}}}
+\DoxyCodeLine{5 \{}
+\DoxyCodeLine{6 \textcolor{keyword}{public}:}
+\DoxyCodeLine{7     std::string name = \textcolor{stringliteral}{"{}Unknown"{}};}
+\DoxyCodeLine{8     std::string surname = \textcolor{stringliteral}{"{}Unknown"{}};}
+\DoxyCodeLine{9     \textcolor{keywordtype}{bool} sex = 0; \textcolor{comment}{// 1-\/male, 0-\/female}}
+\DoxyCodeLine{10     std::string bornYear = \textcolor{stringliteral}{"{}Unknown"{}};}
+\DoxyCodeLine{11     std::string startYear = \textcolor{stringliteral}{"{}Unknown"{}};}
+\DoxyCodeLine{12     \textcolor{keywordtype}{double} rating = 0.0;}
+\DoxyCodeLine{13     \textcolor{keywordtype}{int} jury = 0; }
+\DoxyCodeLine{14     \textcolor{keywordtype}{int} numOfPhotos = 0;}
+\DoxyCodeLine{15 }
+\DoxyCodeLine{16 }
+\DoxyCodeLine{17     \mbox{\hyperlink{class_worker}{Worker}}();}
+\DoxyCodeLine{18     \mbox{\hyperlink{class_worker}{Worker}}(std::string name, std::string surname, \textcolor{keywordtype}{bool} sex, std::string bornYear, std::string startYear, \textcolor{keywordtype}{double} rating, \textcolor{keywordtype}{int} numOfPhotos);}
+\DoxyCodeLine{19     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setName(std::string name);}
+\DoxyCodeLine{20     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setSurname(std::string surname);}
+\DoxyCodeLine{21     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setSex(\textcolor{keywordtype}{bool} sex);}
+\DoxyCodeLine{22     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setBornYear(std::string bornYear);}
+\DoxyCodeLine{23     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setStartYear(std::string startYear);}
+\DoxyCodeLine{24     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setRating(\textcolor{keywordtype}{double} rating);}
+\DoxyCodeLine{25     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} setPortfolio(\textcolor{keywordtype}{int} numOfPhotos);}
+\DoxyCodeLine{26     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} upRating(\textcolor{keywordtype}{int} jury);}
+\DoxyCodeLine{27     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} serialize();}
+\DoxyCodeLine{28     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} deserialize();}
+\DoxyCodeLine{29     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} serialize(\textcolor{keyword}{const} std::string\& file) \textcolor{keyword}{const};}
+\DoxyCodeLine{30     \textcolor{keyword}{virtual} \textcolor{keywordtype}{void} deserialize(\textcolor{keyword}{const} std::string\& file);}
+\DoxyCodeLine{31     \textcolor{keyword}{virtual} \mbox{\hyperlink{class_worker}{\string~Worker}}();}
+\DoxyCodeLine{32 \};}
+\DoxyCodeLine{33 }
+
+\end{DoxyCode}

@@ -1,0 +1,68 @@
+\hypertarget{class_expression_evaluator}{}\doxysection{Expression\+Evaluator Class Reference}
+\label{class_expression_evaluator}\index{ExpressionEvaluator@{ExpressionEvaluator}}
+Inheritance diagram for Expression\+Evaluator\+:\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=1.836066cm]{class_expression_evaluator}
+\end{center}
+\end{figure}
+\doxysubsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_a849f436156a425e65dbd7f390bb2c9a2}\label{class_expression_evaluator_a849f436156a425e65dbd7f390bb2c9a2}} 
+{\bfseries Expression\+Evaluator} (int num\+Of\+Operands)
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_a6cbc3c0a76f69cd2f926e5c2ad5afafe}\label{class_expression_evaluator_a6cbc3c0a76f69cd2f926e5c2ad5afafe}} 
+virtual void {\bfseries set\+Operand} (size\+\_\+t pos, double value)
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_adf80f8a1d3dd48f40478637fb77b28f7}\label{class_expression_evaluator_adf80f8a1d3dd48f40478637fb77b28f7}} 
+virtual void {\bfseries set\+Operands} (double ops\mbox{[}$\,$\mbox{]}, size\+\_\+t n)
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_a397abdbab1d4d692bcdcde949b772522}\label{class_expression_evaluator_a397abdbab1d4d692bcdcde949b772522}} 
+virtual double {\bfseries calculate} ()=0
+\item 
+virtual void \mbox{\hyperlink{class_expression_evaluator_a47071a6a0462aea7e69a5fd46bcbe43c}{log\+To\+Screen}} () const override
+\item 
+virtual void \mbox{\hyperlink{class_expression_evaluator_a200f19d63319dd374e53d4d3535deeda}{log\+To\+File}} (const std\+::string \&filename) const override
+\end{DoxyCompactItemize}
+\doxysubsection*{Protected Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_af9284a12ec2b2fa9ccaf82b7d36c2c73}\label{class_expression_evaluator_af9284a12ec2b2fa9ccaf82b7d36c2c73}} 
+int {\bfseries num\+Of\+Operands} = 0
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_a8887fa130c346fd2ede814a821068e4a}\label{class_expression_evaluator_a8887fa130c346fd2ede814a821068e4a}} 
+double $\ast$ {\bfseries operands}
+\item 
+\mbox{\Hypertarget{class_expression_evaluator_a81ce0eb5113bd498f3136eadb7005b1b}\label{class_expression_evaluator_a81ce0eb5113bd498f3136eadb7005b1b}} 
+std\+::string {\bfseries operators} = \char`\"{}0\char`\"{}
+\end{DoxyCompactItemize}
+
+
+\doxysubsection{Member Function Documentation}
+\mbox{\Hypertarget{class_expression_evaluator_a200f19d63319dd374e53d4d3535deeda}\label{class_expression_evaluator_a200f19d63319dd374e53d4d3535deeda}} 
+\index{ExpressionEvaluator@{ExpressionEvaluator}!logToFile@{logToFile}}
+\index{logToFile@{logToFile}!ExpressionEvaluator@{ExpressionEvaluator}}
+\doxysubsubsection{\texorpdfstring{logToFile()}{logToFile()}}
+{\footnotesize\ttfamily void Expression\+Evaluator\+::log\+To\+File (\begin{DoxyParamCaption}\item[{const std\+::string \&}]{filename }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [override]}, {\ttfamily [virtual]}}
+
+
+
+Implements \mbox{\hyperlink{class_i_loggable}{ILoggable}}.
+
+\mbox{\Hypertarget{class_expression_evaluator_a47071a6a0462aea7e69a5fd46bcbe43c}\label{class_expression_evaluator_a47071a6a0462aea7e69a5fd46bcbe43c}} 
+\index{ExpressionEvaluator@{ExpressionEvaluator}!logToScreen@{logToScreen}}
+\index{logToScreen@{logToScreen}!ExpressionEvaluator@{ExpressionEvaluator}}
+\doxysubsubsection{\texorpdfstring{logToScreen()}{logToScreen()}}
+{\footnotesize\ttfamily void Expression\+Evaluator\+::log\+To\+Screen (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption}) const\hspace{0.3cm}{\ttfamily [override]}, {\ttfamily [virtual]}}
+
+
+
+Implements \mbox{\hyperlink{class_i_loggable}{ILoggable}}.
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/admin/source/repos/\+LAB5+\+Cpp/Expression\+Evaluator.\+h\item 
+C\+:/\+Users/admin/source/repos/\+LAB5+\+Cpp/Expression\+Evaluator.\+cpp\end{DoxyCompactItemize}

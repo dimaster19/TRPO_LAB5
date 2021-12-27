@@ -1,0 +1,19 @@
+\hypertarget{_divisor_8h_source}{}\doxysection{Divisor.\+h}
+\label{_divisor_8h_source}\index{C:/Users/admin/source/repos/LAB5+Cpp/Divisor.h@{C:/Users/admin/source/repos/LAB5+Cpp/Divisor.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#include "{}ExpressionEvaluator.h"{}}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#include "{}IShuffle.h"{}}}
+\DoxyCodeLine{4 \textcolor{keyword}{class }\mbox{\hyperlink{class_divisor}{Divisor}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_expression_evaluator}{ExpressionEvaluator}}, \textcolor{keyword}{public} \mbox{\hyperlink{class_i_shuffle}{IShuffle}}}
+\DoxyCodeLine{5 \{}
+\DoxyCodeLine{6 \textcolor{keyword}{public}:}
+\DoxyCodeLine{7     \mbox{\hyperlink{class_divisor}{Divisor}}();}
+\DoxyCodeLine{8     \mbox{\hyperlink{class_divisor}{Divisor}}(\textcolor{keywordtype}{int} numOfOperands);}
+\DoxyCodeLine{9     \textcolor{keywordtype}{double} calculate() \textcolor{keyword}{override};}
+\DoxyCodeLine{10     \textcolor{keywordtype}{void} shuffle() \textcolor{keyword}{override};}
+\DoxyCodeLine{11     \textcolor{keywordtype}{void} shuffle(\textcolor{keywordtype}{size\_t} i, \textcolor{keywordtype}{size\_t} j) \textcolor{keyword}{override};}
+\DoxyCodeLine{12     \textcolor{keywordtype}{bool} containZeros();}
+\DoxyCodeLine{13 \};}
+
+\end{DoxyCode}

@@ -1,0 +1,85 @@
+[OPTIONS]
+Compiled file=project.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=Lab3
+
+[WINDOWS]
+main="Lab3","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_camera_man_8h_source.html
+_custom_expressions_evaluator_8h_source.html
+_designer_8h_source.html
+_divisor_8h_source.html
+_expression_evaluator_8h_source.html
+_i_loggable_8h_source.html
+_i_picture_processor_8h_source.html
+_i_shuffle_8h_source.html
+_multiplier_8h_source.html
+_subtractor_8h_source.html
+_summator_8h_source.html
+_worker_8h_source.html
+annotated.html
+class_camera_man-members.html
+class_camera_man.html
+class_custom_expressions_evaluator-members.html
+class_custom_expressions_evaluator.html
+class_designer-members.html
+class_designer.html
+class_divisor-members.html
+class_divisor.html
+class_expression_evaluator-members.html
+class_expression_evaluator.html
+class_i_loggable-members.html
+class_i_loggable.html
+class_i_picture_processor-members.html
+class_i_picture_processor.html
+class_i_shuffle-members.html
+class_i_shuffle.html
+class_multiplier-members.html
+class_multiplier.html
+class_subtractor-members.html
+class_subtractor.html
+class_summator-members.html
+class_summator.html
+class_worker-members.html
+class_worker.html
+classes.html
+dir_6bf95812c2f8060d23d8bf1d43ba47ee.html
+dir_b2f33c71d4aa5e7af42a1ca61ff5af1b.html
+dir_da92606663f4ecb03aa66c183f15dac3.html
+files.html
+functions.html
+functions_func.html
+hierarchy.html
+index.html
+bc_s.png
+bdwn.png
+class_camera_man.png
+class_custom_expressions_evaluator.png
+class_designer.png
+class_divisor.png
+class_expression_evaluator.png
+class_i_loggable.png
+class_i_picture_processor.png
+class_i_shuffle.png
+class_multiplier.png
+class_subtractor.png
+class_summator.png
+class_worker.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png

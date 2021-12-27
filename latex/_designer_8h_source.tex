@@ -1,0 +1,20 @@
+\hypertarget{_designer_8h_source}{}\doxysection{Designer.\+h}
+\label{_designer_8h_source}\index{C:/Users/admin/source/repos/LAB5+Cpp/Designer.h@{C:/Users/admin/source/repos/LAB5+Cpp/Designer.h}}
+
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 \textcolor{preprocessor}{\#pragma once}}
+\DoxyCodeLine{2 \textcolor{preprocessor}{\#include "{}Worker.h"{}}}
+\DoxyCodeLine{3 \textcolor{preprocessor}{\#include "{}IPictureProcessor.h"{}}}
+\DoxyCodeLine{4 \textcolor{keyword}{class }\mbox{\hyperlink{class_designer}{Designer}} : \textcolor{keyword}{public} \mbox{\hyperlink{class_worker}{Worker}}, \textcolor{keyword}{public} \mbox{\hyperlink{class_i_picture_processor}{IPictureProcessor}}}
+\DoxyCodeLine{5 \{}
+\DoxyCodeLine{6 \textcolor{keyword}{private}:}
+\DoxyCodeLine{7     }
+\DoxyCodeLine{8 \textcolor{keyword}{public}:}
+\DoxyCodeLine{9     \mbox{\hyperlink{class_designer}{Designer}}();}
+\DoxyCodeLine{10     \mbox{\hyperlink{class_designer}{Designer}}(std::string name, std::string surname, \textcolor{keywordtype}{bool} sex, std::string bornYear, std::string startYear, \textcolor{keywordtype}{double} rating, \textcolor{keywordtype}{int} numOfPhotos);}
+\DoxyCodeLine{11     \textcolor{keywordtype}{void} process(\textcolor{keyword}{const} std::string\& photo\_path) \textcolor{keyword}{override};}
+\DoxyCodeLine{12     \textcolor{keywordtype}{void} upRating(\textcolor{keywordtype}{int} jury) \textcolor{keyword}{override};}
+\DoxyCodeLine{13 \};}
+\DoxyCodeLine{14 }
+
+\end{DoxyCode}

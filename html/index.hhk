@@ -1,0 +1,411 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html"><param name="Name" value="CameraMan"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html"><param name="Name" value="CameraMan"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#aed135b5c64c2c0f8148842ec202a5bff"><param name="Name" value="CameraMan"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html"><param name="Name" value="CameraMan"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#af2ed9f44908ce4a6e4eb56587fea4026"><param name="Name" value="printPortfolio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html"><param name="Name" value="CameraMan"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#a529ab6cf7698b69b1ae4ef6297431974"><param name="Name" value="process"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html"><param name="Name" value="CameraMan"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#ae7d11934f3f61fa4e6ae64ad72d45349"><param name="Name" value="upPortfolio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a52ab7352f4d172392c2ddf6017684285"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#ab23ccf746ffea2f3257a84f21d4a343b"><param name="Name" value="calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a5e23872feea8cf08ab00dc2d6c59a6ec"><param name="Name" value="logToScreen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a98131ca9c75627648f019495f50fd941"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#aa90847928f4a16a61c70b1e6cd376f31"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html"><param name="Name" value="Designer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html"><param name="Name" value="Designer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#a0f8f382c0e9e2df1cd40dca697d9210b"><param name="Name" value="Designer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html"><param name="Name" value="Designer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#a98732afa2eac58d73074ae77257b5306"><param name="Name" value="process"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html"><param name="Name" value="Designer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#aca67838631260e1d87d6ad580ee5a330"><param name="Name" value="upRating"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html"><param name="Name" value="Divisor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html"><param name="Name" value="Divisor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a7dabece1d3aacc2752f66fe711276ead"><param name="Name" value="Divisor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html"><param name="Name" value="Divisor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#abcd898d82e1fd272528998369f25cfe1"><param name="Name" value="calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html"><param name="Name" value="Divisor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a3ca8dd39b4e120aadd7dcfe007ba1122"><param name="Name" value="containZeros"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html"><param name="Name" value="Divisor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a2e18938603903b9c47cef0fd34488532"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html"><param name="Name" value="Divisor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a7217aaa8486b0c78bdd4dfd56bebb339"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a849f436156a425e65dbd7f390bb2c9a2"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a397abdbab1d4d692bcdcde949b772522"><param name="Name" value="calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a200f19d63319dd374e53d4d3535deeda"><param name="Name" value="logToFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a47071a6a0462aea7e69a5fd46bcbe43c"><param name="Name" value="logToScreen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#af9284a12ec2b2fa9ccaf82b7d36c2c73"><param name="Name" value="numOfOperands"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a8887fa130c346fd2ede814a821068e4a"><param name="Name" value="operands"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a81ce0eb5113bd498f3136eadb7005b1b"><param name="Name" value="operators"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a6cbc3c0a76f69cd2f926e5c2ad5afafe"><param name="Name" value="setOperand"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#adf80f8a1d3dd48f40478637fb77b28f7"><param name="Name" value="setOperands"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html"><param name="Name" value="ILoggable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html"><param name="Name" value="ILoggable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html#aa717d55867bd1c521942791556cc0910"><param name="Name" value="logToFile"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html"><param name="Name" value="ILoggable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html#a20edcde44c31fb12e3653e58b55da6eb"><param name="Name" value="logToScreen"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_picture_processor.html"><param name="Name" value="IPictureProcessor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_picture_processor.html"><param name="Name" value="IPictureProcessor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_picture_processor.html#a01df3028f7897b08f5e23bfb102a1a38"><param name="Name" value="process"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html"><param name="Name" value="IShuffle"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html"><param name="Name" value="IShuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html#ad6320a1e792e2a0f71c4040232125f10"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html"><param name="Name" value="IShuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html#afcbaf66a711f7163ebd78b530db487ed"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html"><param name="Name" value="Multiplier"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html"><param name="Name" value="Multiplier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#afb792f499bd42e3111a0416cb6165c19"><param name="Name" value="Multiplier"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html"><param name="Name" value="Multiplier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#a9da2837a6eab69fbb2dec91d6354f083"><param name="Name" value="calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html"><param name="Name" value="Multiplier"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#a1aea2dd27e3f03e1a6faa08aa5475fe7"><param name="Name" value="containZeros"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html"><param name="Name" value="Subtractor"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html"><param name="Name" value="Subtractor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a20e486d6a4bda1481bd2350eaf061f9c"><param name="Name" value="Subtractor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html"><param name="Name" value="Subtractor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a1be6062ff5eb4310773dad78051aa118"><param name="Name" value="Subtractor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html"><param name="Name" value="Subtractor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a86731aec2f9602753e2ec8c6c6b0bbaa"><param name="Name" value="calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html"><param name="Name" value="Subtractor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a1805a36421566e143151a4312b5cfef1"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html"><param name="Name" value="Subtractor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#ad64eb534afa8621ab4728bb80656d067"><param name="Name" value="shuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html"><param name="Name" value="Summator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html"><param name="Name" value="Summator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html#afdc5744f9632414f5b305e8294b39070"><param name="Name" value="Summator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html"><param name="Name" value="Summator"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html#a46845c3bf18f645ab46b5c48fd66b9ad"><param name="Name" value="calculate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a5fe5baa9c8cd0248dee66df36165c9a3"><param name="Name" value="Worker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a910db9605558c5a5093eb33744aaec54"><param name="Name" value="bornYear"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ada3b082247fffd0012ed7ac5d4af2ee0"><param name="Name" value="deserialize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a50153dffee686e0895790e4b80dbc333"><param name="Name" value="deserialize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab46f220050e02f68aa60ee5e4bdb5bc4"><param name="Name" value="jury"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a9d8626364fc2e5353712381175347144"><param name="Name" value="name"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a17169e1fe8914d17a1a60f2a570e28a6"><param name="Name" value="numOfPhotos"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a1518dc2f8ff9795ddcf966d3b7851472"><param name="Name" value="rating"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a30c2af594f764c8a1901fb2b3ec581e9"><param name="Name" value="serialize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab83f419256ccdcd2775e8c1f6e344e89"><param name="Name" value="serialize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ad4643401c7a8d5b9cb07de87bc3bc58a"><param name="Name" value="setBornYear"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#aaede5ce494230695b0041a6040c02669"><param name="Name" value="setName"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a95d642b671e1e9ee1af9646b27f187cd"><param name="Name" value="setPortfolio"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a6e7b33cb231155474167f09fe786833d"><param name="Name" value="setRating"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a6bb655ec7202106f1fdbe0b7d6f107d8"><param name="Name" value="setSex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a117c7416ff03897b1c4e42750e4f6c6f"><param name="Name" value="setStartYear"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a542766d9701c6bd6ecb60faf60987f5a"><param name="Name" value="setSurname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a999ccfd8e3900d84298f029361c7086e"><param name="Name" value="sex"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a0a5cc221285b7a04f26cf1797e157c65"><param name="Name" value="startYear"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab9673cac7cbba1927d40706e69493371"><param name="Name" value="surname"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html"><param name="Name" value="Worker"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a5c24f72b3cce95cbb3658c88b78d7f26"><param name="Name" value="upRating"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a910db9605558c5a5093eb33744aaec54"><param name="Name" value="bornYear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#ab23ccf746ffea2f3257a84f21d4a343b"><param name="Name" value="calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#ab23ccf746ffea2f3257a84f21d4a343b"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#abcd898d82e1fd272528998369f25cfe1"><param name="Name" value="calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#abcd898d82e1fd272528998369f25cfe1"><param name="Name" value="Divisor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a397abdbab1d4d692bcdcde949b772522"><param name="Name" value="calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a397abdbab1d4d692bcdcde949b772522"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#a9da2837a6eab69fbb2dec91d6354f083"><param name="Name" value="calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#a9da2837a6eab69fbb2dec91d6354f083"><param name="Name" value="Multiplier"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a86731aec2f9602753e2ec8c6c6b0bbaa"><param name="Name" value="calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a86731aec2f9602753e2ec8c6c6b0bbaa"><param name="Name" value="Subtractor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html#a46845c3bf18f645ab46b5c48fd66b9ad"><param name="Name" value="calculate"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_summator.html#a46845c3bf18f645ab46b5c48fd66b9ad"><param name="Name" value="Summator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a3ca8dd39b4e120aadd7dcfe007ba1122"><param name="Name" value="containZeros"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a3ca8dd39b4e120aadd7dcfe007ba1122"><param name="Name" value="Divisor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#a1aea2dd27e3f03e1a6faa08aa5475fe7"><param name="Name" value="containZeros"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_multiplier.html#a1aea2dd27e3f03e1a6faa08aa5475fe7"><param name="Name" value="Multiplier"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a50153dffee686e0895790e4b80dbc333"><param name="Name" value="deserialize"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a50153dffee686e0895790e4b80dbc333"><param name="Name" value="Worker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ada3b082247fffd0012ed7ac5d4af2ee0"><param name="Name" value="deserialize"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ada3b082247fffd0012ed7ac5d4af2ee0"><param name="Name" value="Worker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab46f220050e02f68aa60ee5e4bdb5bc4"><param name="Name" value="jury"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a200f19d63319dd374e53d4d3535deeda"><param name="Name" value="logToFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a200f19d63319dd374e53d4d3535deeda"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html#aa717d55867bd1c521942791556cc0910"><param name="Name" value="logToFile"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html#aa717d55867bd1c521942791556cc0910"><param name="Name" value="ILoggable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a5e23872feea8cf08ab00dc2d6c59a6ec"><param name="Name" value="logToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a5e23872feea8cf08ab00dc2d6c59a6ec"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a47071a6a0462aea7e69a5fd46bcbe43c"><param name="Name" value="logToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a47071a6a0462aea7e69a5fd46bcbe43c"><param name="Name" value="ExpressionEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html#a20edcde44c31fb12e3653e58b55da6eb"><param name="Name" value="logToScreen"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_loggable.html#a20edcde44c31fb12e3653e58b55da6eb"><param name="Name" value="ILoggable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a9d8626364fc2e5353712381175347144"><param name="Name" value="name"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#af9284a12ec2b2fa9ccaf82b7d36c2c73"><param name="Name" value="numOfOperands"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a17169e1fe8914d17a1a60f2a570e28a6"><param name="Name" value="numOfPhotos"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a8887fa130c346fd2ede814a821068e4a"><param name="Name" value="operands"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a81ce0eb5113bd498f3136eadb7005b1b"><param name="Name" value="operators"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#af2ed9f44908ce4a6e4eb56587fea4026"><param name="Name" value="printPortfolio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#a529ab6cf7698b69b1ae4ef6297431974"><param name="Name" value="process"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#a529ab6cf7698b69b1ae4ef6297431974"><param name="Name" value="CameraMan"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#a98732afa2eac58d73074ae77257b5306"><param name="Name" value="process"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#a98732afa2eac58d73074ae77257b5306"><param name="Name" value="Designer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_picture_processor.html#a01df3028f7897b08f5e23bfb102a1a38"><param name="Name" value="process"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_picture_processor.html#a01df3028f7897b08f5e23bfb102a1a38"><param name="Name" value="IPictureProcessor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a1518dc2f8ff9795ddcf966d3b7851472"><param name="Name" value="rating"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a30c2af594f764c8a1901fb2b3ec581e9"><param name="Name" value="serialize"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a30c2af594f764c8a1901fb2b3ec581e9"><param name="Name" value="Worker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab83f419256ccdcd2775e8c1f6e344e89"><param name="Name" value="serialize"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab83f419256ccdcd2775e8c1f6e344e89"><param name="Name" value="Worker"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ad4643401c7a8d5b9cb07de87bc3bc58a"><param name="Name" value="setBornYear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#aaede5ce494230695b0041a6040c02669"><param name="Name" value="setName"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#a6cbc3c0a76f69cd2f926e5c2ad5afafe"><param name="Name" value="setOperand"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_expression_evaluator.html#adf80f8a1d3dd48f40478637fb77b28f7"><param name="Name" value="setOperands"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a95d642b671e1e9ee1af9646b27f187cd"><param name="Name" value="setPortfolio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a6e7b33cb231155474167f09fe786833d"><param name="Name" value="setRating"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a6bb655ec7202106f1fdbe0b7d6f107d8"><param name="Name" value="setSex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a117c7416ff03897b1c4e42750e4f6c6f"><param name="Name" value="setStartYear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a542766d9701c6bd6ecb60faf60987f5a"><param name="Name" value="setSurname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a999ccfd8e3900d84298f029361c7086e"><param name="Name" value="sex"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#aa90847928f4a16a61c70b1e6cd376f31"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#aa90847928f4a16a61c70b1e6cd376f31"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a98131ca9c75627648f019495f50fd941"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_custom_expressions_evaluator.html#a98131ca9c75627648f019495f50fd941"><param name="Name" value="CustomExpressionsEvaluator"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a7217aaa8486b0c78bdd4dfd56bebb339"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a7217aaa8486b0c78bdd4dfd56bebb339"><param name="Name" value="Divisor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a2e18938603903b9c47cef0fd34488532"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_divisor.html#a2e18938603903b9c47cef0fd34488532"><param name="Name" value="Divisor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html#ad6320a1e792e2a0f71c4040232125f10"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html#ad6320a1e792e2a0f71c4040232125f10"><param name="Name" value="IShuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html#afcbaf66a711f7163ebd78b530db487ed"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_i_shuffle.html#afcbaf66a711f7163ebd78b530db487ed"><param name="Name" value="IShuffle"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#ad64eb534afa8621ab4728bb80656d067"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#ad64eb534afa8621ab4728bb80656d067"><param name="Name" value="Subtractor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a1805a36421566e143151a4312b5cfef1"><param name="Name" value="shuffle"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_subtractor.html#a1805a36421566e143151a4312b5cfef1"><param name="Name" value="Subtractor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a0a5cc221285b7a04f26cf1797e157c65"><param name="Name" value="startYear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#ab9673cac7cbba1927d40706e69493371"><param name="Name" value="surname"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_camera_man.html#ae7d11934f3f61fa4e6ae64ad72d45349"><param name="Name" value="upPortfolio"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#aca67838631260e1d87d6ad580ee5a330"><param name="Name" value="upRating"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_designer.html#aca67838631260e1d87d6ad580ee5a330"><param name="Name" value="Designer"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a5c24f72b3cce95cbb3658c88b78d7f26"><param name="Name" value="upRating"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_worker.html#a5c24f72b3cce95cbb3658c88b78d7f26"><param name="Name" value="Worker"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
